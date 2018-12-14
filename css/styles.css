@@ -19,3 +19,28 @@ li {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: green;
 }
+.triangle {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  font-family: "Lucida Fax";
+}
+.equilateral,
+.isosceles,
+.scalene {
+  border: 1px solid black;
+  top: 100px;
+  left: 70px;
+}
+.equilateral {
+  background-color: grey;
+  width: 500px;
+}
+.isosceles {
+  background-color: grey;
+  width: 500px;
+}
+.scalene {
+  background-color: violet;
+  width: 500px;
+}
