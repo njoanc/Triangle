@@ -1,6 +1,5 @@
 body {
   color: black;
-  float: left;
   background-color: rgb(165, 175, 165);
 }
 h1 {
@@ -13,6 +12,7 @@ img {
   width: 300px;
   padding: 25px;
   margin: 25px;
+  float: left;
 }
 li {
   font-family: Georgia, "Times New Roman", Times, serif;
