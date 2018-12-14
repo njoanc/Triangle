@@ -19,7 +19,7 @@ function myTriangle() {
     result2 > side2 &&
     result3 > side1
   ) {
-    console.log("TRiangle is Scalene");
+    console.log("Triangle is Scalene");
   } else {
     console.log("Triangle can not be formed");
   }
