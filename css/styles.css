@@ -1,5 +1,4 @@
 body {
-  background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
   color: black;
   float: left;
 }
@@ -33,14 +32,11 @@ li {
   left: 70px;
 }
 .equilateral {
-  background-color: grey;
   width: 500px;
 }
 .isosceles {
-  background-color: grey;
   width: 500px;
 }
 .scalene {
-  background-color: violet;
   width: 500px;
 }
