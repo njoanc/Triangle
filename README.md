@@ -6,7 +6,7 @@
 
 ## Description
 
-My name is Jeanne d'Arc NYIRAMWIZA, I am a student in Moringa School. This is the simple example of javascrip Triangle
+This is the simple example of javascrip Triangle
 
 ## BDD
 
