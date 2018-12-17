@@ -5,7 +5,7 @@
 #### By **Jeanne d'Arc NYIRAMWIZA**
 
 ## Description
-This is the simple example of javascrip Triangle
+This is the simple example of javaScrip Triangle
 
 ## BDD
 
