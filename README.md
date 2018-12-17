@@ -1,3 +1,13 @@
+# Jeanne d'Arc NYIRAMWIZA
+
+#### 17th, December 2018
+
+#### By **Jeanne d'Arc NYIRAMWIZA**
+
+## Description
+
+My name is Jeanne d'Arc NYIRAMWIZA, I am a student in Moringa School. This is the simple example of javascrip Triangle
+
 ## BDD
 
 ### Specs for a triangle
