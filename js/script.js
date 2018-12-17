@@ -7,10 +7,21 @@ function myTriangle() {
   var result1 = side1 + side2;
   var result2 = side1 + side3;
   var result3 = side2 + side3;
-  if (side1 === side2 && side1 === side3) {
+  if (
+    side1 === side2 &&
+    side1 === side3 &&
+    result1 > side3 &&
+    result2 > side2 &&
+    result3 > side1
+  ) {
     console.log("Triangle is Equilateral");
-  } else if (side1 === side2 || side1 === side3 || side2 === side3) {
+    alert("Triangle is Equilateral");
+  } else if (
+    (side1 === side2 || side1 === side3 || side2 === side3) &&
+    (result1 > side3 && result2 > side2 && result3 > side1)
+  ) {
     console.log("Triangle is isoscele");
+    alert("Triangle is isoscele");
   } else if (
     side1 != side2 &&
     side1 != side3 &&
@@ -20,7 +31,9 @@ function myTriangle() {
     result3 > side1
   ) {
     console.log("Triangle is Scalene");
+    alert("Triangle is Scalene");
   } else {
     console.log("Triangle can not be formed");
+    alert("Triangle can not be formed");
   }
 }
