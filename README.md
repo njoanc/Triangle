@@ -6,7 +6,7 @@
 
 ## Description
 
-My name is Jeanne d'Arc NYIRAMWIZA, I am student in Moringa School. This is the simple example of javascrip Triangle\
+My name is Jeanne d'Arc NYIRAMWIZA, I am a student in Moringa School. This is the simple example of javascrip Triangle
 
 ## BDD
 
@@ -27,8 +27,15 @@ The application should tell me what type of triangle my values will produce:
 
 html javascript
 
+## Setup/Installation Requirements
+
+To start using this project use the following commands:
+git clone https://github.com/njoanc/Triangle.git , cd TriangleTracker atom . code . [//]: # (this is if Visual Studio Code is your preferred text editor)
+
+## Contacts
+
 When you click on this link you will run how it is working:https://github.com/njoanc/Triangle.git
-##Fill free to contact us:
+Fill free to contact us:
 +250783451689
 njaonc@gmail.com
-#copyright moringaschool@(c)2018
+copyright moringaschool@(c)2018
