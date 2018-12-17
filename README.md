@@ -26,8 +26,9 @@ The application should tell me what type of triangle my values will produce:
 ## Technologies Used
 
 html javascript
+
 When you click on this link you will run how it is working:
-Fill free to contact us:
+##Fill free to contact us:
 +250783451689
 njaonc@gmail.com
-copyright moringaschool@(c)2018
+#copyright moringaschool@(c)2018
