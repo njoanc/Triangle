@@ -15,11 +15,13 @@ My name is Jeanne d'Arc NYIRAMWIZA, I am student in Moringa School. This is the 
 The application should tell me what type of triangle my values will produce:
 
 1. input:all sides must be equal
-   output:Equilateral triangle
+   output:Triangle is Equilateral
 2. input: Two sides are exactly equal
-   output: isosceles triangle
-3. input: none of the the sides are equal and the sum of any two sides of the triangle is equal to or less than the third remaining side.
-   output: no triangle at all
+   output: Triangle is isoscele
+3. input: none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
+   output: Triangle is Scalene
+4. input: If the sum of any two sides of the triangle is equal to or less than the third remaining side
+   output: Triangle can not be formed
 
 ## Technologies Used
 
