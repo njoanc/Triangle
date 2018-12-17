@@ -6,7 +6,7 @@
 
 ## Description
 
-This is the simple example of javascrip Triangle
+This is the simple example of javaScript Triangle
 
 ## BDD
 
