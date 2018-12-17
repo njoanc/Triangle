@@ -52,8 +52,7 @@ html javascript
 ## Setup/Installation Requirements
 
 To start using this project use the following commands:
-git clone https://github.com/njoanc/Triangle.git , cd TriangleTracker atom . code . [//]: # (this is if Visual Studio Code is your preferred text editor) and file:///home/wecode/Desktop/TriangleTracker/triangletracker.html
-
+git clone https://github.com/njoanc/Triangle.git , cd TriangleTracker atom . code . [//]: # (this is if Visual Studio Code is your preferred text editor) and https://njoanc.github.io/Triangle/triangle.html
 ## Contacts
 
 Fill free to contact us:
