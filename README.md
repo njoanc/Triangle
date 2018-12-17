@@ -27,7 +27,7 @@ The application should tell me what type of triangle my values will produce:
 
 html javascript
 
-When you click on this link you will run how it is working:
+When you click on this link you will run how it is working:https://github.com/njoanc/Triangle.git
 ##Fill free to contact us:
 +250783451689
 njaonc@gmail.com
